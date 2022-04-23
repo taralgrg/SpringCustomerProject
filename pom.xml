@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<darren.cool.number>5.2.1.RELEASE</darren.cool.number>
+		<darren.cool.number>5.3.19</darren.cool.number>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
